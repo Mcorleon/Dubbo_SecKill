@@ -1,0 +1,19 @@
+.layui-table-cell{
+    height: auto;
+    white-space: normal;
+}
+
+#div1{
+    width: 1470px;
+    margin-left: 12%;
+    font-size: 18px;
+}
+
+#p1{
+    width: 150px;
+    margin-left: 10%;
+}
+#a1{
+    text-decoration: underline;
+    margin-left: 65px;
+}

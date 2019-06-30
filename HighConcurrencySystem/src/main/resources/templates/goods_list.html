@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>商品列表</title>
+    <link rel="stylesheet" href=" http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../static/plugins/layui2/css/layui.css" media="all"/>
+    <script type="text/javascript" src="../static/plugins/layui2/layui.all.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <link rel="stylesheet" href="../static/css/goods_list.css" />
+
+</head>
+<body>
+<div class="layui-form-item">
+    <div id="div1">
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <div id="p1"></div>
+            </div>
+            <div class="layui-inline">
+                <a href="/order_list" id="a1">我的订单</a>
+            </div>
+        </div>
+        <table  id="tb" lay-filter="tb"></table>
+    </div>
+</div>
+</body>
+<script type="text/html" id="barDemo">
+    <a class="layui-btn layui-btn-xs layui-btn-normal" lay-event="view">详情</a>
+</script>
+<script src="../static/js/goods_list.js"></script>
+</html>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="dbDummy://dbtable:/8329ea50/1d8a94b8-4fb3-400c-a81b-5cb8356698f4/miaosha.tb_goods" dialect="MySQL" />
+  </component>
+</project>

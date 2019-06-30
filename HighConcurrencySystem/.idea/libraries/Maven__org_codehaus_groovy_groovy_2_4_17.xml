@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.codehaus.groovy:groovy:2.4.17">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/org/codehaus/groovy/groovy/2.4.17/groovy-2.4.17.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/org/codehaus/groovy/groovy/2.4.17/groovy-2.4.17-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/org/codehaus/groovy/groovy/2.4.17/groovy-2.4.17-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

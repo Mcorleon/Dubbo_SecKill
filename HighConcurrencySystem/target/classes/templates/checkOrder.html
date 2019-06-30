@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>确认订单</title>
+    <link rel="stylesheet" href=" http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../static/plugins/layui2/css/layui.css" media="all"/>
+    <script type="text/javascript" src="../static/plugins/layui2/layui.all.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <link rel="stylesheet" href="../static/css/checkOrder.css"/>
+</head>
+<body>
+<form class="layui-form" id="form" onsubmit="return false">
+    <div id="div1">
+        确认订单
+    </div>
+    <div id="div2" class="layui-form-item">
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">用户名称:</label>
+                <div class="layui-input-inline">
+                    <label class="layui-form-label" id="nickname"></label>
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">商品名称:</label>
+                <div class="layui-input-inline">
+                    <label class="layui-form-label" id="goods_name"></label>
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">商品价格:</label>
+                <div class="layui-input-inline">
+                    <label class="layui-form-label" id="miaosha_price"></label>
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">数量:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</label>
+                <div class="layui-input-inline">
+                    <label class="layui-form-label" id="goods_num">1</label>
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <label class="layui-form-label">收货地址:</label>
+                <div class="layui-input-inline">
+                    <select  id="address" lay-verify="required|address">
+                    </select>
+                </div>
+            </div>
+        </div>
+        <div class="layui-form-item">
+            <div class="layui-col-md1">
+                <button class="layui-btn-lg layui-btn" lay-submit="" lay-filter="ok" id="ok">确定</button>
+            </div>
+            <div class="layui-col-md1" id="bt2">
+                <button class="layui-btn-lg layui-btn" lay-filter="cancel" id="cancel">返回</button>
+            </div>
+        </div>
+    </div>
+</form>
+</body>
+<script src="../static/js/checkOrder.js"></script>
+</html>

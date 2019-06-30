@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>登录</title>
+    <link rel="stylesheet" href=" http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../static/plugins/layui2/css/layui.css" media="all"/>
+    <script type="text/javascript" src="../static/plugins/layui2/layui.all.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <link rel="stylesheet" href="../static/css/login.css" />
+</head>
+<body>
+<h2 style="margin-left: 45%;margin-top: 10%">商品秒杀系统</h2>
+
+<form class="layui-form" id="form" style="margin-top: 5%;margin-left: 35%">
+    <div class="layui-form-item">
+        <div class="layui-inline">
+            <label class="layui-form-label">用户名</label>
+            <div class="layui-input-inline">
+                <input class="layui-input" type="text" name="uid" id="uid" autocomplete="off" lay-verify="required"/>
+            </div>
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <div class="layui-inline">
+            <label class="layui-form-label">密码</label>
+            <div class="layui-input-inline">
+                <input class="layui-input" type="password" name="psw" id="psw" autocomplete="off"
+                       lay-verify="required"/>
+            </div>
+        </div>
+    </div>
+    <div class="layui-form-item" style="margin-left: 20%">
+        <div class="layui-col-md1">
+            <button class="layui-btn-lg layui-btn" lay-submit="" lay-filter="login" id="login">登录</button>
+        </div>
+    </div>
+</form>
+
+</body>
+<script src="../static/js/login.js"></script>
+</html>

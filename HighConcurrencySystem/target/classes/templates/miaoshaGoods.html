@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"/>
+    <title>商品详情</title>
+    <link rel="stylesheet" href=" http://netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css"/>
+    <link rel="stylesheet" type="text/css" href="../static/plugins/layui2/css/layui.css" media="all"/>
+    <script type="text/javascript" src="../static/plugins/layui2/layui.all.js"></script>
+    <script src="http://code.jquery.com/jquery-latest.js"></script>
+    <link rel="stylesheet" href="../static/css/miaoshaGoods.css" />
+</head>
+<body>
+<div class="layui-form-item">
+    <div id="div1">
+        <div class="layui-form-item">
+            <div class="layui-inline">
+                <div id="p1"></div>
+            </div>
+            <div class="layui-inline">
+                <a href="/order_list" id="a1">我的订单</a>
+            </div>
+        </div>
+        <table  id="tb" lay-filter="tb"></table>
+    </div>
+</div>
+</body>
+<script type="text/html" id="barDemo">
+    <a class="layui-btn layui-btn-xs layui-btn-normal" lay-event="buy">立即抢购</a>
+</script>
+<script type="text/html" id="countDown">
+    <span id="sp1"></span>
+</script>
+<script type="text/html" id="end_time">
+    <span id="endTime" title="{{d.end_time}}">{{d.end_time}}</span>
+</script>
+<script type="text/html" id="start_time">
+    <span id="startTime" title="{{d.start_time}}">{{d.start_time}}</span>
+</script>
+<script src="../static/js/miaoshaGoods.js"></script>
+</html>

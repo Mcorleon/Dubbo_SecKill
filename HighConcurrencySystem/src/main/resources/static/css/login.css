@@ -1,0 +1,9 @@
+.layui-input, .layui-textarea {
+    font-size: 18px;
+    height: 45px;
+    width: 400px;
+}
+.layui-form-label{
+    font-size: 18px;
+    width: 100px;
+}

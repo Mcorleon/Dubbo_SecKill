@@ -1,0 +1,21 @@
+.layui-form-item{
+    font-size: 20px;
+}
+.layui-form-label{
+    width: auto;
+}
+#div1{
+    margin-left: 100px;
+    font-size: 40px;
+}
+#div2{
+    margin-top: 40px;
+}
+#form{
+    margin-left: 40%;
+    margin-top: 5%;
+
+}
+#bt2{
+    margin-left: 100px;
+}
