@@ -4,33 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/GoodsController.java" line="44" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d07d4347-643d-4bd1-9a59-f2c9a13df4c0" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/GoodsServiceImpl.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/OrderServiceImpl.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/GoodsServiceImpl.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/OrderServiceImpl.java" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/DemoApplication.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/DemoApplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/config/AbstractUserRealm.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/config/AbstractUserRealm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/config/UserRealm.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/config/UserRealm.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/controller/GoodsController.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/controller/GoodsController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/controller/MainController.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/controller/MainController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/controller/OrderController.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/controller/OrderController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/controller/UserController.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/controller/UserController.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/GoodsService.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/GoodsService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/MQReciver.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/MQReciver.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/MQSender.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/MQSender.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/MessageService.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/MessageService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/OrderService.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/OrderService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/PermissionService.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/PermissionService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/RoleService.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/RoleService.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/UserSerive.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/UserSerive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/MessageServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/MessageServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/PermissionServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/PermissionServiceImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/RoleSeriveImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/RoleSeriveImpl.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/main/java/com/tqh/service/impl/UserServiceImpl.java" afterPath="$PROJECT_DIR$/src/main/java/com/tqh/api/impl/UserServiceImpl.java" />
-    </list>
+    <list default="true" id="d07d4347-643d-4bd1-9a59-f2c9a13df4c0" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -81,32 +55,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="GoodIDAndStock.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/GoodIDAndStock.java">
+      <file leaf-file-name="MainController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/MainController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="138">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="248">
-              <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Address.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/Address.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
+            <state relative-caret-position="368">
+              <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#1525#1526#0" expanded="false" />
+                <element signature="e#1560#1561#0" expanded="false" />
+                <element signature="e#1668#1669#0" expanded="false" />
+                <element signature="e#1705#1706#0" expanded="false" />
+                <element signature="e#1796#1797#0" expanded="false" />
+                <element signature="e#1826#1827#0" expanded="false" />
+                <element signature="e#1928#1929#0" expanded="false" />
+                <element signature="e#1956#1957#0" expanded="false" />
+                <element signature="e#2087#2088#0" expanded="false" />
+                <element signature="e#2122#2123#0" expanded="false" />
+                <element signature="e#2226#2227#0" expanded="false" />
+                <element signature="e#2261#2262#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -121,31 +89,33 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="OrderVo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/OrderVo.java">
+      <file leaf-file-name="OrderController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/OrderController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="419">
+              <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AccessLimitInterceptor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/AccessLimitInterceptor.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="92">
-              <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-              <folding />
+              <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="GoodsServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/GoodsServiceImpl.java">
+      <file leaf-file-name="GlobalExceptionHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/GlobalExceptionHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-115">
-              <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="OrderServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/OrderServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+            <state relative-caret-position="386">
+              <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -154,28 +124,48 @@
       <file leaf-file-name="OrderService.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/OrderService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <state relative-caret-position="299">
+              <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Permission.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/Permission.java">
+      <file leaf-file-name="ThreadPoolConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ThreadPoolConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="437">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MessageServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/MessageServiceImpl.java">
+      <file leaf-file-name="ShiroConfiguration.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ShiroConfiguration.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+            <state relative-caret-position="-920">
+              <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MessageMapper.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/mapper/MessageMapper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="207">
+              <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="281">
+              <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -202,7 +192,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -366,10 +356,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-9" />
-    <option name="y" value="-9" />
-    <option name="width" value="1938" />
-    <option name="height" value="1048" />
+    <option name="x" value="-8" />
+    <option name="y" value="2" />
+    <option name="width" value="1934" />
+    <option name="height" value="1036" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -386,9 +376,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -699,42 +688,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HighConcurrencySystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="HighConcurrencySystem" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="tqh" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="api" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="impl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -742,10 +698,11 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning/dubbo_miaosha_user" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbo_miaosha_goods" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="SearchEverywhereHistoryKey" value="DubboI&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.dubbo.DubboInvoker&#10;AutoConfigurationImportSelector&#9;FILE&#9;jar://D:/software/JetBrains/IntelliJ IDEA 2016.3.4/mvnLocalRes/org/springframework/boot/spring-boot-autoconfigure/1.5.19.RELEASE/spring-boot-autoconfigure-1.5.19.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class&#10;ConcurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Map&#9;FILE&#9;jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java&#10;LinkedL&#9;PSI&#9;JAVA://java.util.LinkedList&#10;CopyOn&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap" />
+    <property name="SearchEverywhereHistoryKey" value="exporter&#9;PSI&#9;JAVA://com.alibaba.dubbo.registry.integration.RegistryProtocol.ExporterChangeableWrapper&#10;Dubbo&#9;FILE&#9;jar://D:/software/JetBrains/IntelliJ IDEA 2016.3.4/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboInvoker.class&#10;DubboI&#9;PSI&#9;JAVA://com.alibaba.dubbo.rpc.protocol.dubbo.DubboInvoker&#10;AutoConfigurationImportSelector&#9;FILE&#9;jar://D:/software/JetBrains/IntelliJ IDEA 2016.3.4/mvnLocalRes/org/springframework/boot/spring-boot-autoconfigure/1.5.19.RELEASE/spring-boot-autoconfigure-1.5.19.RELEASE.jar!/org/springframework/boot/autoconfigure/AutoConfigurationImportSelector.class&#10;ConcurrentH&#9;PSI&#9;JAVA://java.util.concurrent.ConcurrentHashMap&#10;Map&#9;FILE&#9;jar://D:/Java/jdk1.8.0_111/src.zip!/java/util/HashMap.java&#10;LinkedL&#9;PSI&#9;JAVA://java.util.LinkedList&#10;CopyOn&#9;PSI&#9;JAVA://java.util.concurrent.CopyOnWriteArrayList&#10;HashM&#9;PSI&#9;JAVA://java.util.HashMap" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1284,6 +1241,8 @@
       <workItem from="1561789666584" duration="16893000" />
       <workItem from="1561857060954" duration="14767000" />
       <workItem from="1561877272653" duration="6513000" />
+      <workItem from="1561946638928" duration="7958000" />
+      <workItem from="1563345349566" duration="4978000" />
     </task>
     <servers />
   </component>
@@ -1320,7 +1279,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="426381000" />
+    <option name="totallyTimeSpent" value="439317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1332,38 +1291,39 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="0" />
+    <frame x="-8" y="2" width="1934" height="1036" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.576444" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14055794" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.576444" sideWeight="0.50214595" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33861834" sideWeight="0.49785408" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.27145922" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2795699" sideWeight="0.49603623" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299356" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14086021" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28165236" sideWeight="0.50396377" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997735" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Dynamic Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295583" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1386,65 +1346,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/org/mybatis/mybatis-spring/1.3.1/mybatis-spring-1.3.1.jar!/org/mybatis/spring/config/MapperScannerBeanDefinitionParser.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="17" column="13" lean-forward="false" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/SnowFlake.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="14" column="14" lean-forward="false" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/HttpAspect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ThreadPoolConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="21" column="5" lean-forward="false" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/AccessLimitInterceptor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="29" column="28" lean-forward="false" selection-start-line="29" selection-start-column="28" selection-end-line="29" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/templates/order_list.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.5.3/dubbo-2.5.3.jar!/com/alibaba/dubbo/config/ReferenceConfig.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1035">
-          <caret line="92" column="0" lean-forward="false" selection-start-line="92" selection-start-column="0" selection-end-line="92" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/MiaoshaGoodsVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/Goods.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
@@ -1489,22 +1390,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ShiroConfiguration.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/MQReciver.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="33" column="45" lean-forward="false" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/MQSender.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="874">
@@ -1535,38 +1420,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/GoodsService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/746103d2/1d8a94b8-4fb3-400c-a81b-5cb8356698f4/miaosha.tb_order">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="dbDummy://dbtable:/746103d2/1d8a94b8-4fb3-400c-a81b-5cb8356698f4/miaosha.tb_user">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
-        <state>
-          <filtering enabled="true" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="dbDummy://dbtable:/746103d2/1d8a94b8-4fb3-400c-a81b-5cb8356698f4/miaosha.tb_order" />
+    <entry file="dbDummy://dbtable:/746103d2/1d8a94b8-4fb3-400c-a81b-5cb8356698f4/miaosha.tb_user" />
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/UserRealm.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
@@ -1602,32 +1457,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/DemoApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="281">
-          <caret line="75" column="0" lean-forward="true" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/UserServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
           <caret line="35" column="13" lean-forward="false" selection-start-line="35" selection-start-column="13" selection-end-line="35" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1594#1595#0" expanded="true" />
-            <element signature="e#1649#1650#0" expanded="true" />
-            <element signature="e#4276#4277#0" expanded="true" />
-            <element signature="e#4343#4344#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1594#1595#0" expanded="false" />
+            <element signature="e#1649#1650#0" expanded="false" />
+            <element signature="e#4276#4277#0" expanded="false" />
+            <element signature="e#4343#4344#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1640,63 +1479,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/AbstractUserRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="30" column="14" lean-forward="false" selection-start-line="30" selection-start-column="14" selection-end-line="30" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/MainController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="196">
-          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/js/goods_list.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="276">
           <caret line="33" column="0" lean-forward="false" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/GoodsController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="174">
-          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23">
-          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/RabbitMqConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboInvoker.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-759">
-          <caret line="28" column="13" lean-forward="false" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1712,7 +1498,16 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
           <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#181#182#0" expanded="false" />
+            <element signature="e#206#207#0" expanded="false" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#270#271#0" expanded="false" />
+            <element signature="e#300#301#0" expanded="false" />
+            <element signature="e#328#329#0" expanded="false" />
+            <element signature="e#368#369#0" expanded="false" />
+            <element signature="e#402#403#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1720,15 +1515,32 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#279#280#0" expanded="false" />
+            <element signature="e#298#299#0" expanded="false" />
+            <element signature="e#332#333#0" expanded="false" />
+            <element signature="e#354#355#0" expanded="false" />
+            <element signature="e#382#383#0" expanded="false" />
+            <element signature="e#402#403#0" expanded="false" />
+            <element signature="e#438#439#0" expanded="false" />
+            <element signature="e#462#463#0" expanded="false" />
+            <element signature="e#495#496#0" expanded="false" />
+            <element signature="e#520#521#0" expanded="false" />
+            <element signature="e#566#567#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
+            <element signature="e#634#635#0" expanded="false" />
+            <element signature="e#660#661#0" expanded="false" />
+            <element signature="e#708#709#0" expanded="false" />
+            <element signature="e#744#745#0" expanded="false" />
+            <element signature="e#774#775#0" expanded="false" />
+            <element signature="e#796#797#0" expanded="false" />
+            <element signature="e#836#837#0" expanded="false" />
+            <element signature="e#864#865#0" expanded="false" />
+            <element signature="e#903#904#0" expanded="false" />
+            <element signature="e#934#935#0" expanded="false" />
+            <element signature="e#992#993#0" expanded="false" />
+            <element signature="e#1038#1039#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1736,7 +1548,61 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#644#645#0" expanded="false" />
+            <element signature="e#669#670#0" expanded="false" />
+            <element signature="e#715#716#0" expanded="false" />
+            <element signature="e#749#750#0" expanded="false" />
+            <element signature="e#780#781#0" expanded="false" />
+            <element signature="e#804#805#0" expanded="false" />
+            <element signature="e#848#849#0" expanded="false" />
+            <element signature="e#880#881#0" expanded="false" />
+            <element signature="e#919#920#0" expanded="false" />
+            <element signature="e#950#951#0" expanded="false" />
+            <element signature="e#1008#1009#0" expanded="false" />
+            <element signature="e#1054#1055#0" expanded="false" />
+            <element signature="e#1140#1141#0" expanded="false" />
+            <element signature="e#1159#1160#0" expanded="false" />
+            <element signature="e#1193#1194#0" expanded="false" />
+            <element signature="e#1215#1216#0" expanded="false" />
+            <element signature="e#1247#1248#0" expanded="false" />
+            <element signature="e#1271#1272#0" expanded="false" />
+            <element signature="e#1315#1316#0" expanded="false" />
+            <element signature="e#1347#1348#0" expanded="false" />
+            <element signature="e#1380#1381#0" expanded="false" />
+            <element signature="e#1405#1406#0" expanded="false" />
+            <element signature="e#1451#1452#0" expanded="false" />
+            <element signature="e#1485#1486#0" expanded="false" />
+            <element signature="e#1520#1521#0" expanded="false" />
+            <element signature="e#1547#1548#0" expanded="false" />
+            <element signature="e#1597#1598#0" expanded="false" />
+            <element signature="e#1635#1636#0" expanded="false" />
+            <element signature="e#1670#1671#0" expanded="false" />
+            <element signature="e#1697#1698#0" expanded="false" />
+            <element signature="e#1747#1748#0" expanded="false" />
+            <element signature="e#1785#1786#0" expanded="false" />
+            <element signature="e#1817#1818#0" expanded="false" />
+            <element signature="e#1843#1844#0" expanded="false" />
+            <element signature="e#1889#1890#0" expanded="false" />
+            <element signature="e#1925#1926#0" expanded="false" />
+            <element signature="e#1960#1961#0" expanded="false" />
+            <element signature="e#1987#1988#0" expanded="false" />
+            <element signature="e#2037#2038#0" expanded="false" />
+            <element signature="e#2075#2076#0" expanded="false" />
+            <element signature="e#2102#2103#0" expanded="false" />
+            <element signature="e#2124#2125#0" expanded="false" />
+            <element signature="e#2161#2162#0" expanded="false" />
+            <element signature="e#2189#2190#0" expanded="false" />
+            <element signature="e#2222#2223#0" expanded="false" />
+            <element signature="e#2249#2250#0" expanded="false" />
+            <element signature="e#2297#2298#0" expanded="false" />
+            <element signature="e#2335#2336#0" expanded="false" />
+            <element signature="e#2366#2367#0" expanded="false" />
+            <element signature="e#2391#2392#0" expanded="false" />
+            <element signature="e#2435#2436#0" expanded="false" />
+            <element signature="e#2469#2470#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1744,6 +1610,87 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="92">
           <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <element signature="e#169#170#0" expanded="false" />
+            <element signature="e#188#189#0" expanded="false" />
+            <element signature="e#220#221#0" expanded="false" />
+            <element signature="e#242#243#0" expanded="false" />
+            <element signature="e#271#272#0" expanded="false" />
+            <element signature="e#292#293#0" expanded="false" />
+            <element signature="e#330#331#0" expanded="false" />
+            <element signature="e#356#357#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/GoodsServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1104">
+          <caret line="48" column="17" lean-forward="false" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-373">
+          <caret line="94" column="21" lean-forward="false" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/rpc/Invoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/rpc/protocol/dubbo/DubboInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="33" column="26" lean-forward="false" selection-start-line="33" selection-start-column="26" selection-end-line="33" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/rpc/Exporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="138">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/mvnLocalRes/com/alibaba/dubbo/2.6.5/dubbo-2.6.5.jar!/com/alibaba/dubbo/registry/integration/RegistryProtocol.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5612">
+          <caret line="296" column="18" lean-forward="false" selection-start-line="296" selection-start-column="18" selection-end-line="296" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/mapper/OrderMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/MQReciver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="759">
+          <caret line="33" column="45" lean-forward="false" selection-start-line="33" selection-start-column="45" selection-end-line="33" selection-end-column="45" />
           <folding />
         </state>
       </provider>
@@ -1756,34 +1703,160 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/GoodsServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/RabbitMqConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-115">
-          <caret line="37" column="46" lean-forward="false" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+        <state relative-caret-position="207">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1451#1452#0" expanded="false" />
+            <element signature="e#1524#1525#0" expanded="false" />
+            <element signature="e#1773#1774#0" expanded="false" />
+            <element signature="e#1826#1827#0" expanded="false" />
+            <element signature="e#1880#1881#0" expanded="false" />
+            <element signature="e#1958#1959#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/DemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="20" column="12" lean-forward="false" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#721#722#0" expanded="false" />
+            <element signature="e#778#779#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/AbstractUserRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1541">
+          <caret line="85" column="29" lean-forward="false" selection-start-line="85" selection-start-column="29" selection-end-line="85" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#3683#3684#0" expanded="false" />
+            <element signature="e#3723#3724#0" expanded="false" />
+            <element signature="e#3774#3775#0" expanded="false" />
+            <element signature="e#3820#3821#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/GoodsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="19" column="9" lean-forward="false" selection-start-line="19" selection-start-column="9" selection-end-line="19" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/GoodsController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/impl/OrderServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/MainController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="48" column="17" lean-forward="true" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
+        <state relative-caret-position="368">
+          <caret line="31" column="14" lean-forward="false" selection-start-line="31" selection-start-column="14" selection-end-line="31" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1525#1526#0" expanded="false" />
+            <element signature="e#1560#1561#0" expanded="false" />
+            <element signature="e#1668#1669#0" expanded="false" />
+            <element signature="e#1705#1706#0" expanded="false" />
+            <element signature="e#1796#1797#0" expanded="false" />
+            <element signature="e#1826#1827#0" expanded="false" />
+            <element signature="e#1928#1929#0" expanded="false" />
+            <element signature="e#1956#1957#0" expanded="false" />
+            <element signature="e#2087#2088#0" expanded="false" />
+            <element signature="e#2122#2123#0" expanded="false" />
+            <element signature="e#2226#2227#0" expanded="false" />
+            <element signature="e#2261#2262#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/model/Order.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="419">
+          <caret line="36" column="36" lean-forward="true" selection-start-line="36" selection-start-column="36" selection-end-line="36" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/AccessLimitInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="17" column="16" lean-forward="false" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/util/GlobalExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="386">
+          <caret line="28" column="31" lean-forward="true" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/api/OrderService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="17" column="30" lean-forward="true" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state relative-caret-position="299">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ThreadPoolConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="94" column="21" lean-forward="true" selection-start-line="94" selection-start-column="21" selection-end-line="94" selection-end-column="21" />
+        <state relative-caret-position="437">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/config/ShiroConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-920">
+          <caret line="42" column="13" lean-forward="false" selection-start-line="42" selection-start-column="13" selection-end-line="42" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/tqh/mapper/MessageMapper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="12" column="17" lean-forward="false" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
           <folding />
         </state>
       </provider>

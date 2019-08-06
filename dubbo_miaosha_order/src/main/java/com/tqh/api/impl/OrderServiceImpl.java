@@ -1,16 +1,15 @@
 package com.tqh.api.impl;
 
 import com.alibaba.dubbo.config.annotation.Reference;
-
 import com.alibaba.dubbo.config.annotation.Service;
 import com.github.pagehelper.Page;
 import com.github.pagehelper.PageHelper;
-import com.tqh.mapper.OrderMapper;
-import com.tqh.model.*;
 import com.tqh.api.GoodsService;
 import com.tqh.api.MQSender;
 import com.tqh.api.OrderService;
 import com.tqh.api.UserSerive;
+import com.tqh.mapper.OrderMapper;
+import com.tqh.model.*;
 import com.tqh.util.RedisTool;
 import com.tqh.util.SnowFlake;
 import org.slf4j.Logger;
@@ -57,19 +56,26 @@ public class OrderServiceImpl implements OrderService {
             return Result.UNKONWN_GOODS_ERR;
         }
         if (stock - goods_num >= 0) {
-            //下单
-            Result result = dealOrderMessage(miaosha_id, nickName, goods_num, address_id);
-            if (200==result.getCode() ) {
-                //订单生成成功(未支付)
-                //交给队列 异步减mysql库存或者发回扣等等...(严格来说应该在支付后进行,此处省略)
-                sender.sendOrderMessage(result.getDetail());
+            Result result = null;
+            try {
+                //下单
+                result = dealOrderMessage(miaosha_id, nickName, goods_num, address_id);
+                if (200 == result.getCode()) {
+                    //订单生成成功(未支付)
+                    //交给队列 异步减mysql库存或者发回扣等等...(严格来说应该在支付后进行,此处省略)
+                    sender.sendOrderMessage(result.getDetail());
 //                goodsService.doTaskOne();
 //                goodsService.doTaskTwo(result.getDetail());
 
-            }else {
-                //生成订单失败,把减掉的redis库存加回去
-                stringRedisTemplate.opsForValue().increment(miaosha_id + "stock",goods_num);
+                } else {
+                    //生成订单失败,把减掉的redis库存加回去
+                    stringRedisTemplate.opsForValue().increment(miaosha_id + "stock", goods_num);
+                }
+            } catch (Exception e) {
+                e.printStackTrace();
+                stringRedisTemplate.opsForValue().increment(miaosha_id + "stock", goods_num);
             }
+
             return result;
         } else {
             //没库存了
@@ -80,8 +86,8 @@ public class OrderServiceImpl implements OrderService {
     }
 
     @Override
-    public Map<String, Object> getOrderVoByUid(String uid,int page, int limit) {
-        PageHelper.startPage(page,limit);
+    public Map<String, Object> getOrderVoByUid(String uid, int page, int limit) {
+        PageHelper.startPage(page, limit);
         List<OrderVo> list = orderMapper.getOrderVoByUid(uid);
         for (OrderVo orderVo : list) {
             String stateVo;
